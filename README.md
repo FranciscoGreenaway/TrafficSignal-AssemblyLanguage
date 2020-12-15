@@ -1,5 +1,7 @@
 # TrafficSignal-AssemblyLanguage
-
+Demonstration:
+	https://youtu.be/zDZpQ9AKwQk
+	
 Components: 
         - Red, Yellow, Green LED
         - Five Wired
