@@ -3,7 +3,7 @@ Demonstration:
 	https://youtu.be/zDZpQ9AKwQk
 	
 Components: 
-	- ATMEGA 328
+	- ARDUINO UNO R3
         - Red, Yellow, Green LED
         - Five Wired
         - Push Button Switch
